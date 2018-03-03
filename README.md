@@ -11,12 +11,16 @@ We propose a different approach that provides a highly liquid, transparent token
 
 
 Please join us on our telegram channel - https://t.me/ChintaiEOS.
+
 ***OR***
+
 Email us at community@chintai-eos.io 
 
 -----------------------
 
 **Whitepaper link:** https://github.com/eos42/Chintai/blob/master/Chintai_whitepaper.pdf
+
 **Github:** https://github.com/eos42/Chintai
+
 **Telegram channel:** https://t.me/ChintaiEOS
 
