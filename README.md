@@ -8,3 +8,15 @@ Chintai is envisaged to sit alongside other EOS Essentials as a community owned 
 
 We propose a different approach that provides a highly liquid, transparent token leasing market, and which gives fair market value to all participants regardless of token size holding or token size requirements.  This will be free to use for both sides as a crucial means of ensuring full market efficiency, functioning and price discovery without transaction fee or pool distortion.
 
+
+
+Please join us on our telegram channel - https://t.me/ChintaiEOS.
+***OR***
+Email us at community@chintai-eos.io 
+
+-----------------------
+
+**Whitepaper link:** https://github.com/eos42/Chintai/blob/master/Chintai_whitepaper.pdf
+**Github:** https://github.com/eos42/Chintai
+**Telegram channel:** https://t.me/ChintaiEOS
+
